@@ -1,2 +1,2 @@
 # Telegram-Auto-Messsage-Bot
-Sends promotional messages to all Telegram groups and channels the account is part of.
+This project is a simple tool that sends a message automatically to all Telegram groups and channels the user is part of. It helps you share announcements or reminders without needing to send them manually every time. The bot runs in the background and repeats the sending task every 30 minutes. You can change the message text and the timing as you like. It’s easy to set up and suitable for personal or small-scale use.
